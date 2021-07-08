@@ -6,5 +6,6 @@ sudo apt install gparted -y
 sudo apt install curl -y
 sudo apt install git -y
 sudo apt install  ssh  -y
+sudo apt-get install build-essential
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
